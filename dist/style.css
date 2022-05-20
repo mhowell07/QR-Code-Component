@@ -1,0 +1,2 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");html{box-sizing:border-box;font-size:100%}*,:after,:before{box-sizing:inherit}body{margin:0;padding:0}:root{--white:#fff;--light-gray:#d6e2f0;--grayish-blue:#7b879d;--dark-blue:#1f3251;--font-outfit:"Outfit",sans-serif}body{font-family:var(--font-outfit)}h1,h2,h3{margin-top:0}a,a:active,a:visited{text-decoration:none}.card{padding:1.25rem}
+/*# sourceMappingURL=style.css.map */
